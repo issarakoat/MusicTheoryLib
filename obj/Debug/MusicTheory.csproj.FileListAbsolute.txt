@@ -1,0 +1,34 @@
+C:/Users/tom/documents/visual studio 2017/Projects/Music/MusicTheoryZZ/bin/Debug/MusicTheoryZZ.dll
+C:/Users/tom/documents/visual studio 2017/Projects/Music/MusicTheoryZZ/bin/Debug/MusicTheoryZZ.pdb
+C:/Users/tom/documents/visual studio 2017/Projects/Music/MusicTheoryZZ/obj/Debug/MusicTheoryZZ.dll
+C:/Users/tom/documents/visual studio 2017/Projects/Music/MusicTheoryZZ/obj/Debug/MusicTheoryZZ.pdb
+C:/Users/tom/documents/visual studio 2017/Projects/Music/MusicTheoryZZ/obj/Debug/MusicTheory.csprojResolveAssemblyReference.cache
+C:/Users/tom/Documents/Visual Studio 2017/Projects/Music/MusicTheory/bin/Debug/MusicTheoryZZ.dll
+C:/Users/tom/Documents/Visual Studio 2017/Projects/Music/MusicTheory/bin/Debug/MusicTheoryZZ.pdb
+C:/Users/tom/Documents/Visual Studio 2017/Projects/Music/MusicTheory/obj/Debug/MusicTheory.csprojResolveAssemblyReference.cache
+C:/Users/tom/Documents/Visual Studio 2017/Projects/Music/MusicTheory/obj/Debug/MusicTheoryZZ.dll
+C:/Users/tom/Documents/Visual Studio 2017/Projects/Music/MusicTheory/obj/Debug/MusicTheoryZZ.pdb
+/Users/weeravut/Dropbox/Music/MusicTheory/bin/Debug/MusicTheoryZZ.dll
+/Users/weeravut/Dropbox/Music/MusicTheory/bin/Debug/MusicTheoryZZ.pdb
+/Users/weeravut/Dropbox/Music/MusicTheory/obj/Debug/MusicTheory.csprojResolveAssemblyReference.cache
+/Users/weeravut/Dropbox/Music/MusicTheory/obj/Debug/MusicTheory.csproj.CoreCompileInputs.cache
+/Users/weeravut/Dropbox/Music/MusicTheory/obj/Debug/MusicTheoryZZ.dll
+/Users/weeravut/Dropbox/Music/MusicTheory/obj/Debug/MusicTheoryZZ.pdb
+C:\Users\tom\Dropbox\Music\MusicTheory\bin\Debug\MusicTheoryZZ.dll
+C:\Users\tom\Dropbox\Music\MusicTheory\bin\Debug\MusicTheoryZZ.pdb
+C:\Users\tom\Dropbox\Music\MusicTheory\obj\Debug\MusicTheory.csprojResolveAssemblyReference.cache
+C:\Users\tom\Dropbox\Music\MusicTheory\obj\Debug\MusicTheory.csproj.CoreCompileInputs.cache
+C:\Users\tom\Dropbox\Music\MusicTheory\obj\Debug\MusicTheoryZZ.dll
+C:\Users\tom\Dropbox\Music\MusicTheory\obj\Debug\MusicTheoryZZ.pdb
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\bin\Debug\MusicTheoryZZ.dll
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\bin\Debug\MusicTheoryZZ.pdb
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\obj\Debug\MusicTheory.csprojAssemblyReference.cache
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\obj\Debug\MusicTheory.csproj.CoreCompileInputs.cache
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\obj\Debug\MusicTheoryZZ.dll
+C:\Users\weera\Dropbox\computer_projects\MusicTheory\obj\Debug\MusicTheoryZZ.pdb
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\bin\Debug\MusicTheoryZZ.dll
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\bin\Debug\MusicTheoryZZ.pdb
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\obj\Debug\MusicTheory.csprojAssemblyReference.cache
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\obj\Debug\MusicTheory.csproj.CoreCompileInputs.cache
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\obj\Debug\MusicTheoryZZ.dll
+C:\Users\weera\Dropbox\computer_projects\ASP_projects\MusicTheoryAPI\MusicTheory\obj\Debug\MusicTheoryZZ.pdb
